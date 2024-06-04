@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(250, 211, 211);
+}
+#farm{
+    width: 150px;
+    height: 150px;
+    border-radius: 200px;
+}
+header{
+    text-align: center;
+}
+main{
+    background-color: green;
+    padding: 28px 15px;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
